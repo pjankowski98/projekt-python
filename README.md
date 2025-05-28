@@ -22,12 +22,15 @@ git clone https://github.com/pjankowski98/projekt-python.git
 cd projekt-python
 
 ## Użycie
+
 Uruchom aplikację za pomocą Pythona:
 
 python main.py
 
 ## Licencja
+
 Ten projekt jest objęty licencją MIT. Zobacz plik LICENSE po więcej informacji.
 
 ## Autor
+
 Patryk Jankowski – GitHub
