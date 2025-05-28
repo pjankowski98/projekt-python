@@ -1,5 +1,5 @@
 def przywitanie():
-    print("Witaj w projekcie Python!")
+    print("Witaj w moim super projekcie Python!")
 
 if __name__ == "__main__":
     przywitanie()
