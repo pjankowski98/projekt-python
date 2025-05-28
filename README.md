@@ -21,13 +21,13 @@ Aby zainstalować projekt lokalnie:
 git clone https://github.com/pjankowski98/projekt-python.git
 cd projekt-python
 
-Użycie
+## Użycie
 Uruchom aplikację za pomocą Pythona:
 
 python main.py
 
-Licencja
+##Licencja
 Ten projekt jest objęty licencją MIT. Zobacz plik LICENSE po więcej informacji.
 
-Autor
+##Autor
 Patryk Jankowski – GitHub
